@@ -1,4 +1,4 @@
-[![MasterHead](https://iakademi.com/wp-content/uploads/2023/02/en-iyi-yazilim-programlari-1170x500.jpg)
+![MasterHead](https://iakademi.com/wp-content/uploads/2023/02/en-iyi-yazilim-programlari-1170x500.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Kaan Kaya</h1>

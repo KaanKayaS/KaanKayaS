@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Kaan Kaya</h1>
-<h3 align="center">A passionate Web developer from Turkey</h3>
+<h3 align="center">A passionate Backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Asp .Net**
+- 🔭 I’m currently working on **.Net**
 
 - 📫 How to reach me **kaankaya0743@gmail.com**
 
